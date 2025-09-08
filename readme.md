@@ -1,17 +1,26 @@
-# Python Tutorial
+# Python Tutorial - Table of Contents
 
-A beginner-friendly Python tutorial.
-
-## Contents
-- [Introduction](docs/01_intro.md)
-- [Variables](docs/02_variables.md)
-- [Conditions](docs/03_conditions.md)
-- [Loops](docs/04_loops.md)
-- [Functions](docs/05_functions.md)
-- [Object-Oriented Programming](docs/06_oop.md)
-
-## How to Use
-Clone the repo:
-
-```bash
-git clone https://github.com/your-username/python-tutorial.git
+1. [Introduction & Print Function](docs/01_intro.md)
+2. [Print Function](docs/02_print.md)
+3. [Variables](docs/03_variables.md)
+4. [Data Types & Type Conversion](docs/04_datatype.md)
+5. [Operators](docs/05_operators.md)
+6. [Control Flow - If, Else, Elif](docs/06_conditional.md)
+7. [Loops - For & While](docs/07_loops.md)
+8. [Functions](docs/08_functions.md)
+9. [Modules & Packages](docs/09_modules&import.md)
+10. [Exception Handling](docs/10_execption_handling.md)
+11. [File Handling](docs/11_file_handling.md)
+12. [OOP - Classes & Objects](docs/17_oop_advanced.md)
+13. [Decorators & Generators](docs/18_decorators_generate.md)
+14. [Regular Expressions (`re` module)](docs/19_regular_expressions.md)
+15. [Virtual Environments (`venv`)](docs/20_virtual_environments.md)
+16. [Debugging & Logging](docs/21_debugging_logging.md)
+17. [Multithreading & Multiprocessing](docs/22_multithreading_multiprocessing.md)
+18. [Networking - Sockets, Requests, HTTP](docs/23_networking_requests_http.md)
+19. [Web Scraping - BeautifulSoup & Scrapy](docs/24_web_scraping.md)
+20. [Database Connectivity - SQLite, MySQL, SQLAlchemy](docs/25_database_connectivity.md)
+21. [API Handling - Flask REST API](docs/26_api_handling_flask.md)
+22. [Testing - unittest & pytest](docs/27_testing_unittest_pytest.md)
+23. [Advanced Topics - Context Managers, Itertools, functools](docs/28_advanced_topics.md)
+24. [Project Structure & Best Practices](docs/29_project_structure_best_practices.md)
