@@ -3,7 +3,7 @@
 # ==========================================
 
 # Definition:
-# A class is a blueprint or template used to create objects.
+# A class is a blueprint used to create objects.
 # An object is an instance of a class.
 #
 # A class can contain attributes (data) and methods (functions).
